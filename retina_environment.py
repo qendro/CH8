@@ -1,5 +1,6 @@
 #
 # The script to maintain the modular retina test environment.
+# small modification to this text
 #
 from enum import Enum
 import numpy as np
